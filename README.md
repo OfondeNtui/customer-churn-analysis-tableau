@@ -41,3 +41,19 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
 - Tableau
 - Excel / CSV
 - GitHub
+
+---
+
+## 🔎 Methodology
+
+1. Data Exploration  
+   The dataset was reviewed to understand customer demographics, spending behavior, satisfaction levels, and churn indicators.
+
+2. KPI Calculation  
+   Calculated churn rate and comparative metrics (churned vs retained) using Tableau calculated fields.
+
+3. Segmentation Analysis  
+   Analyzed churn distribution across regions, satisfaction levels, and spending categories to identify high-risk groups.
+
+4. Visualization Design  
+   Built an executive dashboard structured around business questions to ensure insights were actionable and decision-focused.
