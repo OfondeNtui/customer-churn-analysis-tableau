@@ -59,46 +59,36 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
    Built an executive dashboard structured around business questions to ensure insights were actionable and decision-focused.
 
 
-📊 Results & Key Insights
+## 📊 Results & Key Insights
 
-Overall Churn Severity
-The analysis revealed an overall churn rate of 44.8%, indicating that nearly half of the customer base has discontinued service. This level of attrition represents significant risk to recurring revenue and long-term business sustainability.
+The overall churn rate was 44.8%, confirming a severe customer retention issue.
 
-Satisfaction as a Key Churn Driver
-A strong inverse relationship was identified between customer satisfaction and churn. Customers with satisfaction scores of 1–3 exhibited nearly 100% churn, while churn rates dropped significantly at satisfaction levels 4 and 5. This suggests customer satisfaction is the strongest predictor of retention within the dataset.
+Customers with satisfaction scores between 1–3 showed significantly higher churn, indicating satisfaction as the strongest churn driver.
 
-Regional Churn Patterns
-Churn rates varied across regions, indicating that geographic factors may influence customer behavior. Certain regions demonstrated higher churn concentration and should be prioritized for targeted retention strategies.
+Certain regions demonstrated higher churn concentration, suggesting geographic performance gaps.
 
-Revenue Exposure
-With an average monthly spend of $46.62 per customer, the 44.8% churn rate represents substantial recurring revenue loss. Even modest improvements in retention could materially improve financial stability.
+The average monthly spend of $46.62 per customer highlights substantial recurring revenue loss due to churn.
+
+High-spending customers were not immune to churn, indicating retention strategies must include premium segments.
 
 💡 Business Recommendations
 
-Proactive Retention Strategy
-Implement early-warning systems to identify customers with satisfaction scores ≤3 and intervene before churn occurs.
+Implement early-warning alerts for customers with satisfaction scores ≤3.
 
-Targeted Regional Interventions
-Develop region-specific retention initiatives in areas with elevated churn rates.
+Develop region-specific retention campaigns for high-churn areas.
 
-Customer Experience Improvements
-Invest in service enhancements to move customers from satisfaction level 3 to 4+, where churn decreases significantly.
+Improve customer experience initiatives to increase satisfaction levels.
 
-Continuous Monitoring
-Track churn and satisfaction trends monthly to measure the effectiveness of retention initiatives.
+Monitor churn trends monthly to track retention strategy effectiveness.
 
 🚀 Skills Demonstrated
 
 Business KPI Development
-Translated a business problem into measurable performance indicators.
 
-Data Aggregation & Calculation
-Applied calculated fields in Tableau to compute churn rates and comparative metrics.
+Data Visualization & Dashboard Design (Tableau)
 
 Customer Segmentation Analysis
-Identified high-risk groups through satisfaction, regional, and spending-based analysis.
+
+Insight Communication for Stakeholders
 
 Executive-Level Reporting
-Designed dashboards structured around business questions to deliver actionable insights.
-
-
