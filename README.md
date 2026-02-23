@@ -97,7 +97,7 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/page1.png)
+![Executive Overview](data/dashboard/images/page1.png)
 
 ### Satisfaction Deep Dive
-![Satisfaction Analysis](images/page2.png)
+![Satisfaction Analysis](data/dashboard/images/page2.png)
