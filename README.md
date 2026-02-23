@@ -92,3 +92,12 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
 - Insight Communication for Stakeholders
 
 - Executive-Level Reporting
+
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/page1.png)
+
+### Satisfaction Deep Dive
+![Satisfaction Analysis](images/page2.png)
