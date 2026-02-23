@@ -61,34 +61,34 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
 
 ## 📊 Results & Key Insights
 
-The overall churn rate was 44.8%, confirming a severe customer retention issue.
+- The overall churn rate was 44.8%, confirming a severe customer retention issue.
 
-Customers with satisfaction scores between 1–3 showed significantly higher churn, indicating satisfaction as the strongest churn driver.
+- Customers with satisfaction scores between 1–3 showed significantly higher churn, indicating satisfaction as the strongest churn driver.
 
-Certain regions demonstrated higher churn concentration, suggesting geographic performance gaps.
+- Certain regions demonstrated higher churn concentration, suggesting geographic performance gaps.
 
-The average monthly spend of $46.62 per customer highlights substantial recurring revenue loss due to churn.
+- The average monthly spend of $46.62 per customer highlights substantial recurring revenue loss due to churn.
 
-High-spending customers were not immune to churn, indicating retention strategies must include premium segments.
+- High-spending customers were not immune to churn, indicating retention strategies must include premium segments.
 
 💡 Business Recommendations
 
-Implement early-warning alerts for customers with satisfaction scores ≤3.
+- Implement early-warning alerts for customers with satisfaction scores ≤3.
 
-Develop region-specific retention campaigns for high-churn areas.
+- Develop region-specific retention campaigns for high-churn areas.
 
-Improve customer experience initiatives to increase satisfaction levels.
+- Improve customer experience initiatives to increase satisfaction levels.
 
-Monitor churn trends monthly to track retention strategy effectiveness.
+- Monitor churn trends monthly to track retention strategy effectiveness.
 
 🚀 Skills Demonstrated
 
-Business KPI Development
+- Business KPI Development
 
-Data Visualization & Dashboard Design (Tableau)
+- Data Visualization & Dashboard Design (Tableau)
 
-Customer Segmentation Analysis
+- Customer Segmentation Analysis
 
-Insight Communication for Stakeholders
+- Insight Communication for Stakeholders
 
-Executive-Level Reporting
+- Executive-Level Reporting
