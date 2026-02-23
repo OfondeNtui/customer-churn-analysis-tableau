@@ -4,6 +4,10 @@
 
 The company is experiencing a 45% customer churn rate, indicating significant customer attrition and potential revenue instability. Management requires data-driven insights to understand the drivers of churn and identify opportunities to improve retention.
 
+## 📌 Project Overview
+
+This project analyzes customer churn drivers using KPI-based business intelligence techniques. The dashboard is designed for executive decision-making and focuses on retention risk, satisfaction impact, and revenue exposure. The goal is to transform raw customer data into clear, actionable insights.
+
 ---
 
 ## 🎯 Project Objectives
