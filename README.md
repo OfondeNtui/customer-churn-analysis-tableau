@@ -57,3 +57,48 @@ The company is experiencing a 45% customer churn rate, indicating significant cu
 
 4. Visualization Design  
    Built an executive dashboard structured around business questions to ensure insights were actionable and decision-focused.
+
+
+📊 Results & Key Insights
+
+Overall Churn Severity
+The analysis revealed an overall churn rate of 44.8%, indicating that nearly half of the customer base has discontinued service. This level of attrition represents significant risk to recurring revenue and long-term business sustainability.
+
+Satisfaction as a Key Churn Driver
+A strong inverse relationship was identified between customer satisfaction and churn. Customers with satisfaction scores of 1–3 exhibited nearly 100% churn, while churn rates dropped significantly at satisfaction levels 4 and 5. This suggests customer satisfaction is the strongest predictor of retention within the dataset.
+
+Regional Churn Patterns
+Churn rates varied across regions, indicating that geographic factors may influence customer behavior. Certain regions demonstrated higher churn concentration and should be prioritized for targeted retention strategies.
+
+Revenue Exposure
+With an average monthly spend of $46.62 per customer, the 44.8% churn rate represents substantial recurring revenue loss. Even modest improvements in retention could materially improve financial stability.
+
+💡 Business Recommendations
+
+Proactive Retention Strategy
+Implement early-warning systems to identify customers with satisfaction scores ≤3 and intervene before churn occurs.
+
+Targeted Regional Interventions
+Develop region-specific retention initiatives in areas with elevated churn rates.
+
+Customer Experience Improvements
+Invest in service enhancements to move customers from satisfaction level 3 to 4+, where churn decreases significantly.
+
+Continuous Monitoring
+Track churn and satisfaction trends monthly to measure the effectiveness of retention initiatives.
+
+🚀 Skills Demonstrated
+
+Business KPI Development
+Translated a business problem into measurable performance indicators.
+
+Data Aggregation & Calculation
+Applied calculated fields in Tableau to compute churn rates and comparative metrics.
+
+Customer Segmentation Analysis
+Identified high-risk groups through satisfaction, regional, and spending-based analysis.
+
+Executive-Level Reporting
+Designed dashboards structured around business questions to deliver actionable insights.
+
+
