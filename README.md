@@ -1,5 +1,10 @@
 # 📊 Customer Churn & Retention Analysis
 
+## 🔗 Live Interactive Dashboard
+
+👉 **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/agbor.ofonde.ntui/viz/BI_Project_Ecommerce_Analysis/Dashboard2)**
+
+
 ## 🧩 Business Problem
 
 The company is experiencing a 45% customer churn rate, indicating significant customer attrition and potential revenue instability. Management requires data-driven insights to understand the drivers of churn and identify opportunities to improve retention.
